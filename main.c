@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <gtk/gtk.h>
+//#include <SFML/Audio.hpp>
 
 
 // ЗНАЧКИ ДЛЯ ПРОИГРЫВАТЕЛЯ (взято из стима)
